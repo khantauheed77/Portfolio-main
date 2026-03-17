@@ -29,7 +29,7 @@ function Projects() {
               <div className='mb-6 overflow-hidden rounded-xl relative'>
                 <div className='absolute inset-0 bg-gradient-to-t from-zinc-900/50 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
                 <img
-                  src='./assets/images/QuickShow.png'
+                  src='/assets/images/QuickShow.png'
                   alt='QuickShow Project'
                   className='w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500 filter group-hover:brightness-110'
                 />
@@ -58,7 +58,7 @@ function Projects() {
               <div className='mb-6 overflow-hidden rounded-xl relative'>
                 <div className='absolute inset-0 bg-gradient-to-t from-zinc-900/50 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
                 <img
-                  src='./assets/images/search-trip.png'
+                  src='/assets/images/search-trip.png'
                   alt='Search Trip Project'
                   className='w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500 filter group-hover:brightness-110'
                 />
@@ -87,7 +87,7 @@ function Projects() {
               <div className='mb-6 overflow-hidden rounded-xl relative'>
                 <div className='absolute inset-0 bg-gradient-to-t from-zinc-900/50 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
                 <img
-                  src='./assets/images/Skill_Path.png'
+                  src='/assets/images/Skill_Path.png'
                   alt='Skill Path Project'
                   className='w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500 filter group-hover:brightness-110'
                 />
@@ -116,7 +116,7 @@ function Projects() {
               <div className='mb-6 overflow-hidden rounded-xl relative'>
                 <div className='absolute inset-0 bg-gradient-to-t from-zinc-900/50 to-transparent z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300'></div>
                 <img
-                  src='./assets/images/BrandPage.png'
+                  src='/assets/images/BrandPage.png'
                   alt='Brand Page Project'
                   className='w-full h-48 object-cover group-hover:scale-110 transition-transform duration-500 filter group-hover:brightness-110'
                 />
